@@ -10,3 +10,5 @@
 
 - Видео [pandas .head() to .tail() (Beginner) | SciPy 2018 Tutorial | Niederhut, Augspurger, Van den Bossche](https://www.youtube.com/watch?v=lkLl_QKLgcA)
 
+- [Работа с данными по-новому: Pandas вместо SQL](https://tproger.ru/translations/rewrite-sql-queries-in-pandas/amp/)
+

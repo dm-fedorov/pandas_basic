@@ -1,5 +1,7 @@
 # Учебники:
 
+- [Подсказки для печати по pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
 - Видео [Introduction to Data Processing in Python with Pandas | SciPy 2019 Tutorial | Daniel Chen](https://www.youtube.com/watch?v=5rNu16O3YNE&list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC&index=31)
 
 - [Pandas cookbook](https://github.com/jvns/pandas-cookbook)

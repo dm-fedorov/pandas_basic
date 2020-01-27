@@ -14,3 +14,6 @@
 
 - [Работа с данными по-новому: Pandas вместо SQL](https://tproger.ru/translations/rewrite-sql-queries-in-pandas/amp/)
 
+- Блог [Practical Business Python](https://pbpython.com/)
+
+- [Discovering millions of datasets on the web](https://blog.google/products/search/discovering-millions-datasets-web/)

@@ -1,5 +1,9 @@
 # Учебники:
 
+- [Открытый курс машинного обучения. Тема 1. Первичный анализ данных с Pandas](https://habr.com/ru/company/ods/blog/322626/)
+
+- [Большой обзор материалов про Pandas](https://www.notion.so/Pandas-Tutorials-Articles-Videos-a19c806a31bb4b288a1909f0803fad5f)
+
 - [Подсказки для печати по pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 - Видео [Introduction to Data Processing in Python with Pandas | SciPy 2019 Tutorial | Daniel Chen](https://www.youtube.com/watch?v=5rNu16O3YNE&list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC&index=31)

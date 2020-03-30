@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/dm-fedorov/pandas_basic/master/pic/df.jpg" height="200px" width="300px" >
+
 # Учебники:
 
 - [Открытый курс машинного обучения. Тема 1. Первичный анализ данных с Pandas](https://habr.com/ru/company/ods/blog/322626/)

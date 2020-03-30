@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dm-fedorov/pandas_basic/master/pic/df.jpg" height="400px" width="300px" >
+<img src="https://raw.githubusercontent.com/dm-fedorov/pandas_basic/master/pic/df.jpg" height="350px" width="300px" >
 
 # Учебники:
 

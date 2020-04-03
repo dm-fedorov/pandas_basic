@@ -2,6 +2,8 @@
 
 # Учебники:
 
+- [Подборка уроков про pandas со всего мира](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
+
 - [Открытый курс машинного обучения. Тема 1. Первичный анализ данных с Pandas](https://habr.com/ru/company/ods/blog/322626/)
 
 - [Большой обзор материалов про Pandas](https://www.notion.so/Pandas-Tutorials-Articles-Videos-a19c806a31bb4b288a1909f0803fad5f)

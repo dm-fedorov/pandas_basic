@@ -1,0 +1,42 @@
+Описание полей:
+Name               object - имя игрока
+Age                 int64 - возраст
+Nationality        object - национальность
+Club               object - клуб
+Value               int64 - цена
+Wage                int64 - зарплата
+Position           object - позиция
+Crossing            int64 - прострелы,навесы с флангов
+Finishing           int64 - способность завершать атаки
+HeadingAccuracy     int64 - точность ударов головой
+ShortPassing        int64 - навык коротких передач
+Volleys             int64 - навык паса в одно касание
+Dribbling           int64 - дриблинг
+Curve               int64 - крученые удары
+FKAccuracy          int64 - точность ударов ногой
+LongPassing         int64 - длинные передачи
+BallControl         int64 - контроль мяча
+Acceleration        int64 - ускорение
+SprintSpeed         int64 - скорость
+Agility             int64 - ловкость
+Reactions           int64 - реакция
+Balance             int64 - равновесие
+ShotPower           int64 - сила удара
+Jumping             int64 - прыжок
+Stamina             int64 - выносливость
+Strength            int64 - сила
+LongShots           int64 - дальние удары
+Aggression          int64 - агрессивность
+Interceptions       int64 - перехваты
+Positioning         int64 - соблюдение позиции
+Vision              int64 - видение поля
+Penalties           int64 - пенальти
+Composure           int64 - хладнокровие
+Marking             int64 - персональная опека
+StandingTackle      int64 - отбор стоя
+SlidingTackle       int64 - отборы в подкате
+GKDiving            int64 - нырок голкипера
+GKHandling          int64 - владение мячом голкипера
+GKKicking           int64 - Удар ногой голкипера
+GKPositioning       int64 - занятие позиции голкипера
+GKReflexes          int64 - рефлексы голкипера

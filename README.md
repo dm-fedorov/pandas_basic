@@ -2,6 +2,8 @@
 
 # Учебники:
 
+- Kevin Markham [github с блокнотами про pandas](https://github.com/justmarkham) и [школа данных](https://www.dataschool.io/)
+
 - [Подборка уроков про pandas со всего мира](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
 
 - [Открытый курс машинного обучения. Тема 1. Первичный анализ данных с Pandas](https://habr.com/ru/company/ods/blog/322626/)

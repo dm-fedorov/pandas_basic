@@ -1,0 +1,4 @@
+movieId	title	genres
+31	Dangerous Minds (1995) 	Drama
+32	Twelve Monkeys (a.k.a. 12 Monkeys) (1995)	Mystery|Sci-Fi|Thriller
+31	Dangerous Minds (1995) 	Drama
